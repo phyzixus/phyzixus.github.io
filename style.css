@@ -97,3 +97,18 @@ footer {
   color: #666;
   border-top: 1px solid #e0e0e0;
 }
+/* Journey / Article Styling */
+.post {
+  margin-top: 60px;
+  padding-left: 15px;
+  border-left: 4px solid #5a2ca0;
+}
+
+.post .date {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.post p {
+  margin-top: 15px;
+}
